@@ -18,7 +18,7 @@ class Imagen : AppCompatActivity() {
         rollDice()
     }
     /**
-     * Tira los dados y actualiza la pantalla con el resultado.
+     * Tira los dados y actualiza la pantallaa con el resultado.
      */
     private fun rollDice() {
         // Crea un nuevo objeto Dice con 6 lados y tira los dados
