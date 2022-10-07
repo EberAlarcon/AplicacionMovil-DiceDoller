@@ -47,11 +47,11 @@
                 android:textSize="20sp" />
 
             <Button
-                android:id="@+id/button"
+                android:id="@+id/button3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:onClick="Botones"
-                android:text="Dice con Botón" />
+                android:onClick="Basico"
+                android:text="Dice  Basico" />
 
             <Button
                 android:id="@+id/button2"
@@ -61,11 +61,11 @@
                 android:text="Con condicional" />
 
             <Button
-                android:id="@+id/button3"
+                android:id="@+id/button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:onClick="Basico"
-                android:text="Dice  Basico" />
+                android:onClick="Botones"
+                android:text="Dice con Botón" />
 
             <Button
                 android:id="@+id/button4"
